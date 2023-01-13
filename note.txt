@@ -1,0 +1,13 @@
+WHAT IAM LEARNING IN 40 MINUTES OF GIT:
+1. Discover a three tree of git or you can say it fundamental of git
+2. A condition each phase of file
+3. A diagram of git works (just a basic to known).
+4. What is git?
+5. Local repo/remote
+6. Basic command to use git
+
+PROBLEM THAT I WAS FOUND:
+1. Need more understanding of condition phase of file -> staging, modified, commited
+2. Need more explanation of the tree git. or i could say i just confused what is tree git or fundamental git, is both are different meaning?
+3. Need to know how to undoing changes or commit especially `git reset` command, still confused how to use it. 
+4. About HEAD?
